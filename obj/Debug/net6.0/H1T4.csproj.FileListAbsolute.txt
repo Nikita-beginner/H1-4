@@ -1,0 +1,15 @@
+E:\GitH\H1T4\bin\Debug\net6.0\H1T4.exe
+E:\GitH\H1T4\bin\Debug\net6.0\H1T4.deps.json
+E:\GitH\H1T4\bin\Debug\net6.0\H1T4.runtimeconfig.json
+E:\GitH\H1T4\bin\Debug\net6.0\H1T4.dll
+E:\GitH\H1T4\bin\Debug\net6.0\H1T4.pdb
+E:\GitH\H1T4\obj\Debug\net6.0\H1T4.csproj.AssemblyReference.cache
+E:\GitH\H1T4\obj\Debug\net6.0\H1T4.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitH\H1T4\obj\Debug\net6.0\H1T4.AssemblyInfoInputs.cache
+E:\GitH\H1T4\obj\Debug\net6.0\H1T4.AssemblyInfo.cs
+E:\GitH\H1T4\obj\Debug\net6.0\H1T4.csproj.CoreCompileInputs.cache
+E:\GitH\H1T4\obj\Debug\net6.0\H1T4.dll
+E:\GitH\H1T4\obj\Debug\net6.0\refint\H1T4.dll
+E:\GitH\H1T4\obj\Debug\net6.0\H1T4.pdb
+E:\GitH\H1T4\obj\Debug\net6.0\H1T4.genruntimeconfig.cache
+E:\GitH\H1T4\obj\Debug\net6.0\ref\H1T4.dll
